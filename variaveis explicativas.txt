@@ -1,0 +1,35 @@
+Variavel Dependente:
+- Mudança de Classificação de Risco entre 2017 e 2018 (CAPAG-Municipios.csv)
+
+
+09 Categorias
+
+Categoria AA: A ----> A
+Categoria AB: A ----> B
+Categoria AC: A ----> C
+Categoria BA: B ----> A
+Categoria BB: B ----> B
+Categoria BC: B ----> C
+Categoria CA: C ----> A
+Categoria CB: C ----> B
+Categoria CA: C ----> C
+
+
+
+Variáveis Explicativas contínuas:
+- AREA dos Municípios em 2017 (AREA.2013-2018)
+- Cota do Fundo de Participação Municipal em 2017 (Cota do Fundo de Participação Municipal.xls)
+- Despesas por Função Saúde Saneamento em 2017 (Despesas por Função Saúde Saneamento.xls)
+- Importações em 2017 (IMPORTACAO.2014-2019.xls)
+- Exportações em 2017 (EXPORTACAO.2014-2019.xls)
+- PIB dos Municípios em 2017 (PIB dos Municípios 2010-2017.xls)
+- Receita Tributária em 2017 (Receita Tributária Impostos Municipal.xls)
+- ICMS dos Municípiosa em 2017 (Transferências ICMS Municípios.xls)
+
+
+
+Variáveis Explicativas categóricas.
+- UF (PIB dos Municípios 2010-2017.xls)
+- Região Metropolitana: 0 ou 1 (PIB dos Municípios 2010-2017.xls)
+- Tipologia dos Minicipios (Tipologia_Cidades_2017.xlsx)
+
